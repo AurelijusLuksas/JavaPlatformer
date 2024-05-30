@@ -9,7 +9,7 @@ This game also has a map editor included, you can open it in the main menu.
 The collision system is based on tile map so it is not perfect for funny shaped objects.
 
 ### Controls
-* `Move right/left` - __A D__
+* `Move left/right` - __A D__
 * `Jump` - __W / SPACE__
 
 ## About Map Editor
