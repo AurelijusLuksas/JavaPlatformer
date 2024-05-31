@@ -32,7 +32,7 @@ The editor has __3__ layers which are always seen by the user, they can be chang
 * `Remove` - __RIGHT CLICK__
 
 ### To-Do
-- [ ] Add ability to hold and place objects.
+- [ ] Add ability to place objects by holding mouse button.
 - [ ] Add selectable area for drawing.
 - [ ] Change the tile loading system for more options.
 - [ ] Improve map loading and saving for easier use.
